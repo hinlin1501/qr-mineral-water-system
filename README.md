@@ -372,12 +372,12 @@ db.Product.find({ ProductID: "AQU500" }).explain("executionStats")
 
 ## Project Team
 
-| Name | Student ID | Contribution |
-|------|------------|--------------|
-| Huỳnh Ngọc Trâm Anh | 2352035 | 100% |
-| Huỳnh Lê Phương Linh | 2352674 | 100% |
-| Phan Cao Thiên Kiều | 2352646 | 100% |
-| Nguyễn Thị Như Quỳnh | 2353040 | 100% |
+| Name |
+|------|
+| Huỳnh Ngọc Trâm Anh |
+| Huỳnh Lê Phương Linh |
+| Phan Cao Thiên Kiều |
+| Nguyễn Thị Như Quỳnh |
 
 **Course**: Data Engineering Capstone Project  
 **Class**: CN01  
@@ -412,3 +412,4 @@ For questions, suggestions, or collaboration opportunities, please contact the t
 ---
 
 **Repository**: [https://github.com/hinlin1501/qr-mineral-water-system](https://github.com/hinlin1501/qr-mineral-water-system)
+
